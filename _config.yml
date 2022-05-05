@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "devault", air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "Agapao Financial Coaching"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Christ centered, family oriented financial coaching" # site tagline that appears below site title in masthead
 name                     : "Agapao Financial Coaching"
 description              : "Financial Coaching"
 url                      : "https://agapao-coaching.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,7 +108,7 @@ author:
   location         : "Tampa Bay Area, FL"
   email            :
   links:
-    - label: "(786)477-0824"
+    - label: "(813)384-8660"
       icon: "fab fa-fw fa-phone"
       url: "tel:17864770824"
     - label: "Email"
@@ -133,7 +133,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "(786)477-0824"
+    - label: "(813)384-8660"
       icon: "fab fa-fw fa-phone"
       url: "tel:17864770824"
     - label: "Email"
