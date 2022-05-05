@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,15 +105,21 @@ author:
   name             : "Luisa Gomez-Riano"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Financial Coach"
-  location         : "Tampa Bay Area"
+  location         : "Tampa Bay Area, FL"
   email            :
   links:
+    - label: "(786)477-0824"
+      icon: "fab fa-fw fa-phone"
+      url: "tel:17864770824"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:agapao.coaching@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/AgapaoCoaching/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AgapaoCoaching"
@@ -123,13 +129,19 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/AgapaoCoaching/"
 
 # Site Footer
 footer:
   links:
+    - label: "(786)477-0824"
+      icon: "fab fa-fw fa-phone"
+      url: "tel:17864770824"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:agapao.coaching@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/AgapaoCoaching/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AgapaoCoaching"
@@ -145,9 +157,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/AgapaoCoaching/"
 
 
 # Reading Files
